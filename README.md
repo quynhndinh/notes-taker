@@ -9,8 +9,8 @@
   - [License](#License)
   - [Questions](#Questions)
   ## Screenshot
-  ![hompage_image]('/asset/images/homepage.png)
-  ![note_image]('/asset/images/noteSS.png)
+  ![hompage_image]('./asset/images/homepage.png)
+  ![note_image]('./asset/images/noteSS.png)
   ## Description
   This application allows the user to leave notes and save them, similar to sticky notes.
   ## Installations
